@@ -1,0 +1,64 @@
+#promo {
+  text-align:center;
+  padding:40px;
+  background-image:url(../../assets/img/background.jpg);
+  background-size:cover;
+  margin-top:10px;
+}
+
+.jumbotron {
+  border-radius:20px;
+  background-color:rgba(255,255,255,0.75);
+  padding:40px;
+  max-width:800px;
+}
+
+p {
+}
+
+.container {
+}
+
+.h1, h1 {
+  font-family:'Helvetica','Verdana','Monaco',sans-serif;
+  font-weight:bold;
+}
+
+p {
+  font-size:x-large;
+  font-family:Arial, Helvetica, Sans-serif;
+  margin-bottom:20px;
+}
+
+.container {
+  text-align:center;
+  padding:10px;
+}
+
+.fa.fa-birthday-cake {
+  font-size:60px;
+}
+
+.col-md-4 {
+  padding:10px;
+}
+
+.row {
+  padding:10px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+}
+
+div {
+  background-color:#eff5f9;
+}
+
+.navbar.navbar-light.navbar-expand-md.bg-light {
+  padding:0px;
+}
+
+.navbar-light .navbar-brand {
+  padding:0px;
+}
+
